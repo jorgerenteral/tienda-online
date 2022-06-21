@@ -11,6 +11,10 @@ Para su ejecución se deben seguir los siguientes pasos:
 
     `git clone https://github.com/jorgerenteral/tienda-online.git`
 
+## Prerequisitos
+
+Debes crear una base de datos con el nombre **tienda_online**
+
 ## Instrucciones
 1) Debes tener instalado Composer y ejecutar el siguiente comando en la carpeta del proyecto. Nota: Si has descargado el repositorio comprimido, debes descomprimirlo en una carpeta, ingresar a ella para ejecutar el siguiente comando:
 
