@@ -11,7 +11,7 @@ Para su ejecución se deben seguir los siguientes pasos:
 
     `git clone https://github.com/jorgerenteral/tienda-online.git`
 
-## Prerequisitos
+## Prerrequisitos
 
 Debes crear una base de datos con el nombre **tienda_online**
 
